@@ -1,6 +1,8 @@
 # Repositório
 
-Este repositório é destinado para ser base de novos projetos em Javascript.
+Este repositório é destinado para ser base de novos projetos em Javascript. Além disso, a base para o desenvolvimento deste App foi o curso https://www.udemy.com/modern-javascript/.
+
+
 
 Sua utilização é feita por intermédio de scripts que rodam webpack e babel para compilação de código em Javascript (principalmente ES6>).
 
